@@ -1,0 +1,61 @@
+#nav-header{
+	/*height: 120px;*/
+	background-color: #AFD52D;
+}
+#bn{
+	height: 120px;
+}
+
+#brandName{
+	font-size: 1.7em;
+	color: black;
+	margin-top: 10px;
+}
+#bn div a:active,#bn div a:hover{
+	text-decoration: none;
+}
+#nav-list li{
+	background-color:#DB40C2;
+	font-size: 1.2em;
+	
+	border: 1px solid black;
+	font-weight: bold;
+	color: black;
+}
+#nav-list li a{
+	color:black;
+}
+#nav-list li a:hover{
+	color:white;
+}
+.navbar-toggle{
+	margin-top: 65px;
+
+}
+.row section div{
+	background-color: #E6C210;
+	width: 100%;
+	border:1px solid black;
+	margin-top: 15px;
+}
+.name{
+	font-weight: bold;
+}
+.para{
+	padding: 5px;
+
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+#main-content{
+	margin-bottom: 50px;
+}
+.back{
+	font-size: 1.2em;
+	color: black;
+	font-weight: bold;
+	display: block;
+	text-align: right;
+}
